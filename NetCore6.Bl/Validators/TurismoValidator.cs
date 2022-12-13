@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+///////
 namespace NetCore6.Bl.Validators
 {
     public class TurismoValidator : AbstractValidator<TurismoDTO>
